@@ -30,9 +30,7 @@ Table of Contents
 
 1. [Further Documentation](#further-documentation)
 2. [How To Use](#how-to-use)
-3. [Rate Limit](#rate-limit)
-4. [Member Check](#member-check)
-12. [GNU (General public license)](#license)
+3. [Rate Limit](#how-to-self-host)
 
 Further documentation
 ----------------------

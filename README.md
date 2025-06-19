@@ -67,3 +67,18 @@ selfhost(
 selfhost("run")
 
 ```
+
+```python
+requireJOIN=True # Reqiure every uer to join a channel
+channelID="@TEST" # Channel ID of the Channel thats required to join
+rateLimitLengh=30 # How long the user is rate-limited in sec , 60 = 1m , 120 = 2m
+rateLimit=3 # Rate limit after 3 command execxutions
+
+```
+
+How to install 
+----------------------
+```shell
+pip install VAUl3T==0.1.1
+```
+

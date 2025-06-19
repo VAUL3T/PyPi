@@ -30,7 +30,7 @@ Table of Contents
 
 1. [Further Documentation](#further-documentation)
 2. [How To Use](#how-to-use)
-3. [Rate Limit](#how-to-self-host)
+3. [How to self-host](#how-to-self-host)
 
 Further documentation
 ----------------------
